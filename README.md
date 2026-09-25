@@ -23,12 +23,12 @@ Projetos e exercícios que estou fazendo enquanto aprendo Python.
 Exercícios utilizando MySQL para aprender SQL, consultas, relacionamentos e índices.
 
 📚 O que estou fazendo atualmente
-Java          ██████░░░░
-Python        ████░░░░░░
-HTML/CSS      ██████░░░░
-JavaScript    ███░░░░░░░
-MySQL         ████░░░░░░
-Git/GitHub    ████░░░░░░
+Java          
+Python       
+HTML/CSS     
+JavaScript    
+MySQL         
+Git/GitHub    
 
 Aprendendo, fazendo projetos e tentando melhorar um pouco a cada código.
 
@@ -44,4 +44,4 @@ Aprendendo, fazendo projetos e tentando melhorar um pouco a cada código.
 🎓 Ensino Médio
 💻 Aprendendo programação
 
-![alt text](image.png)
+
