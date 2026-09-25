@@ -34,10 +34,16 @@ Aprendendo, fazendo projetos e tentando melhorar um pouco a cada código.
 
 📊 GitHub
 
-<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=piskedv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=piskedv&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
 
 📍 Santa Catarina, Brasil
